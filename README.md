@@ -1,4 +1,4 @@
-# PCD - Password Crack Dictionary
+# WordLib - A Library of Password Crack Dictionaries 
 
 Giant wordlist compilation for bruteforce attack's of all kinds
 
